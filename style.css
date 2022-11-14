@@ -1,0 +1,30 @@
+body {
+    background: rgb(239, 239, 239);
+    margin: 0;
+}
+.container {
+    width: 600px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+.sp-01 {
+    float:right;
+    padding: 5px;
+    color: gray;
+    margin-right: 10px;
+    font-size: 15px;
+}
+h2 {
+    margin-left: 10px;
+}
+p {
+   margin: 10px;
+}
+.row {
+    background: rgb(239, 239, 239);
+}
+header {
+    background-color: white;
+    text-align: center;
+    padding: 0.1rem;
+}
